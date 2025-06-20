@@ -14,7 +14,9 @@ Soca music is central to Trinidad and Tobago's Carnival, with the Road March tit
 
 # Highlights
 🔬 Novel application of the Kappa Regression algorithm to music similarity analysis
+
 🎧 One of the first NLP-focused studies on soca music and Road March success
+
 💡 Practical tool for artists and producers to estimate a song’s "winning potential"
 
 # Libraries Used
